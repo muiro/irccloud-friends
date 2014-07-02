@@ -2,7 +2,7 @@
 
 Replaces "!friends" with a list of users in the current active channel
 
-### [install](https://github.com/muiro/irccloud-friends/master/friends.js)
+### [Click here to install](https://raw.githubusercontent.com/muiro/irccloud-friends/master/friends.js)
 
 ### Usage
 
