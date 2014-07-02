@@ -5,8 +5,8 @@
 // @include     https://www.irccloud.com/*
 // @version     1.0.0
 // @grant       none
-// @updateURL   
-// @downloadURL 
+// @updateURL   https://raw.githubusercontent.com/muiro/irccloud-friends/master/friends.js
+// @downloadURL https://raw.githubusercontent.com/muiro/irccloud-friends/master/friends.js
 // ==/UserScript==
 
 (function () {
